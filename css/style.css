@@ -343,6 +343,11 @@ footer.footer-area .social a > i{
 footer.footer-area .social a:hover > i{
     color: var(--primary-color);
 }
+.site-main .subscribe-us-area .subscribe {
+    background: url(../img/subscribe-bg.png) no-repeat;
+    padding: 10rem 0;
+    margin: 3rem auto;
+}
 
 
 /* End Footer */ 
